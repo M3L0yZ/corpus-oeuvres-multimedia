@@ -1,17 +1,16 @@
-<h1>ÉCOSYSTÈME ALPHA</h1>
+<h1 style="text-align:center;">ÉCOSYSTÈME ALPHA</h1>
 
 ---
 
 ## <span style="color:#B266FF">Présentation</span>
 **Type d'oeuvre:** Sculpture interactive de mapping vidéo <br>
 
-**Description:**<br>
-L'oeuvre Écosystème Alpha est une sculpture interactive représentant un terrain montagneux. Cette oeuvre utilise la projection vidéo pour créer une vue fictive d'un environnement.
+**Description:** L'oeuvre Écosystème Alpha est une sculpture interactive représentant un terrain montagneux. Cette oeuvre utilise la projection vidéo pour créer une vue fictive d'un environnement.
 Grâce à ces projections, on peut voir des cycles naturels comme l'eau, le vent, l'érosion, et les changements de saisons. <br>
 <br>
 Quand on observe de loin, le paysage semble vivant. Mais si le visiteur passe la main devant la projection ou touche la sculpture, le paysage se détruit par le feu et doit se regénérer. Plus l'oeuvre est perturbée, plus la régénération est lente, ce qui impacte l'expérience des autres visiteurs.
 
-![Écosystème Alpha](https://topo.art/chantier/wp-content/uploads/2024/05/ecosysteme-alpha_16x9.jpg)
+<p style="text-align: center"><img src="https://topo.art/chantier/wp-content/uploads/2024/05/ecosysteme-alpha_16x9.jpg"></p>
 
 ---
 
@@ -21,12 +20,11 @@ Quand on observe de loin, le paysage semble vivant. Mais si le visiteur passe la
 **Musique et effets sonores:** Olivier Landry-Gagnon <br>
 **Partenaire:** Conseil des arts de Montréal <br>
 
-![Aude Guivarc'h](https://payload.cargocollective.com/1/2/72778/14503746/6B7D38A0-9B1B-48AD-91E5-11A3123885B7_1_105_c_1024.jpeg)
+<p style="text-align: center"><img src="https://payload.cargocollective.com/1/2/72778/14503746/6B7D38A0-9B1B-48AD-91E5-11A3123885B7_1_105_c_1024.jpeg"></p>
 
 **Présentation:** Aude Guivarc'h est une artiste canadienne-française basée à Montréal. Elle crée des oeuvres immersives en combinant nature, musique et sciences. Elle s'inspire des fractales et des forces naturelles pour explorer le lien entre les humains et la nature avec une approche éco-féministe et engagée socialement. Son art intègre des principes de durabilité, comme le recyclage et la réutilisation, et elle utilise ses compétences en design numérique et artistique pour réaliser ses créations.
 
 ---
-
 
 ## <span style="color:#B266FF">Création</span>
 **Date de création:** 2020 <br>
@@ -39,7 +37,7 @@ Quand on observe de loin, le paysage semble vivant. Mais si le visiteur passe la
 
 **Prix remporté:** 2021: Conseil des arts de Montréal – Subvention d'aide à des projets attribuée pour l'amélioration et les développements ultérieurs d'Écosystème Alpha
 
-![Écosystème Alpha](https://payload.cargocollective.com/1/2/72778/14503746/596381CE-517A-401D-BF96-731E76F18EEB_1_105_c_1024.jpeg)
+<p style="text-align: center"><img src="https://payload.cargocollective.com/1/2/72778/14503746/596381CE-517A-401D-BF96-731E76F18EEB_1_105_c_1024.jpeg"></p>
 
 ---
 
@@ -51,13 +49,7 @@ Quand on observe de loin, le paysage semble vivant. Mais si le visiteur passe la
 **Dimensions:** 180 x 102 x 110cm <br>
 <br>
 
-|   ![Écosystème Alpha](https://payload.cargocollective.com/1/2/72778/14309594/C0129.gif)   |   ![Écosystème Alpha](https://payload.cargocollective.com/1/2/72778/14309594/C0129_1.gif)  |
-|-----------|-----------|
-
-|   ![Écosystème Alpha](https://payload.cargocollective.com/1/2/72778/14309594/C0134.gif)   |   ![Écosystème Alpha](https://payload.cargocollective.com/1/2/72778/14309594/C0131.gif)  |
-|-----------|-----------|
-
-![Écosystème Alpha](https://payload.cargocollective.com/1/2/72778/14541195/IMG_9169_3024.jpg)
+<p style="text-align: center"><img src="https://payload.cargocollective.com/1/2/72778/14541195/IMG_9169_3024.jpg" width="900px"></p>
 
 **Inspirations:**
 
@@ -72,6 +64,12 @@ Quand on observe de loin, le paysage semble vivant. Mais si le visiteur passe la
 ---
 
 ## <span style="color:#B266FF">Démonstration</span>
+
+|   ![Écosystème Alpha](https://payload.cargocollective.com/1/2/72778/14309594/C0129.gif)   |   ![Écosystème Alpha](https://payload.cargocollective.com/1/2/72778/14309594/C0129_1.gif)  |
+|-----------|-----------|
+
+|   ![Écosystème Alpha](https://payload.cargocollective.com/1/2/72778/14309594/C0134.gif)   |   ![Écosystème Alpha](https://payload.cargocollective.com/1/2/72778/14309594/C0131.gif)  |
+|-----------|-----------|
 
 Démonstration de l'interactivité du visiteur avec la sculpture: [Écosystème Alpha 2.0_interactive demo (2022) - Vimeo](https://vimeo.com/793682557)
 
